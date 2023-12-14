@@ -1,9 +1,7 @@
 ![preview](./.github/preview-google.png)
 # Google Homepage
 
-# Tecnologias
+# Technologies
 
 - HTML
 - CSS
-
-Desenvolvido com 💘 por Natasha Limeres
